@@ -3,8 +3,9 @@
    Module:Systèmes Informatiques Distribuées et Middlewares.                                                                         MASTER I2AD
                                                                                                                  
                                                                                                                                     
-                                               TP(PART 1) :  l'injection des dépendances   
-
+                                               TP(PART 1) :  l'injection des dépendances 
+                                               
+                  1/Structure du Projet (en Spring):
 
 
 ![image](https://user-images.githubusercontent.com/97621443/162342474-98e9fdf9-38c1-48a4-9cff-c9602dfebbf7.png)
