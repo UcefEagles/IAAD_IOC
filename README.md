@@ -32,9 +32,16 @@
 ![image](https://user-images.githubusercontent.com/97621443/162343082-8faf3ec1-e40a-41f3-840c-0a27b4a90fc9.png)
 
 
-
+                  3/ Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML
+                  
+                  
+                  
 ![image](https://user-images.githubusercontent.com/97621443/162343770-d64b156c-6d1f-4950-a910-74ee7ae74b53.png)
+
+
 ![image](https://user-images.githubusercontent.com/97621443/162343856-b363be4d-96a4-446e-a28a-d0e7287ea1d8.png)
+
+
 ![image](https://user-images.githubusercontent.com/97621443/162344013-38bedb75-0c67-4cc8-9e5e-6508ec02f250.png)
 
 
