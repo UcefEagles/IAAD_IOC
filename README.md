@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/97621443/162343082-8faf3ec1-e40a-41f3-840c-0a27b4a90fc9.png)
 
 
-                  3/ Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML
+                  3/ Mise en oeuvre de l'injection des dépendances: Injection des dépendances en utilisant le framework Spring et XML et Instanciation statique (couplage fort):
                   
                   
                   
